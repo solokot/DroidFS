@@ -1,0 +1,7 @@
+- Animate GIF images
+- Improved image viewer rotation and swipe
+- Migrated to Tangled
+- Fix scroll position on directory change
+- Fix video autorotation
+- Updated Spanish and Russian translations
+- Dependencies update
